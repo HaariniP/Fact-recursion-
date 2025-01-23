@@ -9,3 +9,5 @@ public static void main (string []args)
 system.out.print In (factorial(5));
 }
 }
+Output 
+120
